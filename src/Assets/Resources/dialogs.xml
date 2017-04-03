@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<Dialogs>
+	<DialogItem>
+		<Id>welcome</Id>
+		<Sentences>
+			<Sentence>Hallo Fremder!</Sentence>
+		  	<Sentence>Hier beginnt deine Reise in unglaubliche Gefilde</Sentence>
+		</Sentences>
+	</DialogItem>
+
+	<DialogItem>
+		<Id>firststeps</Id>
+		<Sentences> 
+			<Sentence typeSpeedModifier="0.5">Benutze die *WASD-Tasten* um dich zu bewegen.</Sentence>
+			<Sentence>Benutze die *Maus* um dich umzusehen.</Sentence>
+			<Sentence>Drücke die *Linke Maustaste* um dein ausgerüstetes Tool oder Waffe zu benutzen.</Sentence>
+			<Sentence>Drücke die *Rechte Maustaste* um bei Schusswaffen zu zoomen.</Sentence>
+			<Sentence>Drücke die *F-Taste* um mit Objekten zu interagieren.</Sentence>
+			<!---<Sentence>Drücke *E* um dein Inventar anzuzeigen.</Sentence>-->
+			<Sentence>Das war's schon. Und jetzt puste soviele Zombies um wie möglich!!!</Sentence>
+		</Sentences>
+	</DialogItem>
+</Dialogs>
